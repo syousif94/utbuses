@@ -41,6 +41,7 @@ a {
   margin: 0 auto; }
 
 .logoImg {
+  pointer-events: none;
   width: 100%; }
 
 .btns {
