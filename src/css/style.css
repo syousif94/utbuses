@@ -34,3 +34,33 @@ body {
 
 a {
   text-decoration: none; }
+
+.logo {
+  width: 500px;
+  max-width: 90%;
+  margin: 0 auto; }
+
+.logoImg {
+  width: 100%; }
+
+.btns {
+  width: 600px;
+  max-width: 80%;
+  margin: 0 auto;
+  margin-bottom: 30px; }
+
+.btn {
+  display: block;
+  margin: 0 auto 20px;
+  width: 100%;
+  max-width: 200px;
+  border-radius: 4px; }
+
+.appleImg {
+  width: 100%; }
+
+.playImg {
+  width: 100%; }
+
+.btnImg {
+  pointer-events: none; }
