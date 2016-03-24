@@ -1,0 +1,22 @@
+{
+  "name": "utbuses-gh",
+  "version": "1.0.0",
+  "description": "UT Buses gh page",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syousif94/utbuses.git"
+  },
+  "author": "Sammy Yousif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syousif94/utbuses/issues"
+  },
+  "homepage": "https://github.com/syousif94/utbuses#readme",
+  "dependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}
