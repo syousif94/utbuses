@@ -36,6 +36,8 @@ a {
   text-decoration: none; }
 
 .logo {
+  height: 383px;
+  max-height: 69vw;
   width: 500px;
   max-width: 90%;
   margin: 0 auto; }
